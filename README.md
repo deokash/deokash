@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @deokash
 - 👀 I’m interested in Machine learning, Python and (dancing).
 - 🌱 I’m currently learning Neural Networks and Deep Learning.
+- 🏫 Pursuing BSc Data Science and Programming.
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: I love binging Modern Family.
 
