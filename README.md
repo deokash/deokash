@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @deokash
-- 👀 I’m interested in Machine learning, Python and (dancing).
+- 👀 I’m interested in Data analytics and Machine Learning.
 - 🌱 I’m currently learning Neural Networks and Deep Learning.
 - 🏫 Pursuing BSc Data Science and Programming.
 - 😄 Pronouns: She/her
