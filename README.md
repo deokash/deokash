@@ -2,7 +2,6 @@
 - 👀 I’m interested in Data analytics and Machine Learning.
 - 🌱 I’m currently learning Neural Networks and Deep Learning.
 - 🏫 Pursuing BSc Data Science and Programming.
-- 😄 Pronouns: She/her
 - ⚡ Fun fact: I love binging Modern Family.
 
 <!---
